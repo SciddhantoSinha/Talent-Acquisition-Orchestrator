@@ -547,7 +547,7 @@ Suggested screenshots:
 Example:
 
 ```markdown
-![Agent Configuration](screenshots/agent-configuration.png)
+![Talent Acquisition Orchestrator Interface]("C:\Users\Sciddhanto\Downloads\agent-interface.png") 
 ```
 
 
