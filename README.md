@@ -544,11 +544,9 @@ Suggested screenshots:
 - Candidate ranking demonstration
 - Candidate shortlisting demonstration
 
-Example:
+### Talent Acquisition Orchestrator Interface
 
-```markdown
-![Talent Acquisition Orchestrator Interface]("C:\Users\Sciddhanto\Downloads\agent-interface.png") 
-```
+![Talent Acquisition Orchestrator Interface](screenshots/agent-interface.png)
 
 
 
